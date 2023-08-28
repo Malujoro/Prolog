@@ -7,11 +7,9 @@ mulher(pam).
 mulher(ann).
 mulher(liz).
 mulher(pat).
-
 homem(tom).
 homem(bob).
 homem(jim).
-
 genitor(pam, bob).
 genitor(tom, bob).
 genitor(tom, liz).
